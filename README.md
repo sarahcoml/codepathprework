@@ -25,6 +25,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+
+# App Brainstorming
+ * Vote App
+   * updates count when someone changes their mind
+   * gives you the final decision when everyone has voted
+ * Journal Prompt
+   * Login/Sign Up
+   * generates journal prompts
+   * personalization
+ * Quote App
+   * Can be turned in a widget 
+   * generates journal prompts
+   * personalization
+
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
